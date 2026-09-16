@@ -23,6 +23,6 @@ la estructura y contenido de la página, mientras que el archivo CSS contendrá 
 El traductor también contará con un sistema de manejo de errores que permita detectar instrucciones desconocidas,
 estructuras incorrectas, elementos no definidos, propiedades inválidas y otros errores relacionados con el uso del lenguaje.
 
-# Objetivo 
+### Objetivo 
 Desarrollar un traductor en Python capaz de analizar y procesar un lenguaje propio para la generación de páginas web,
 convirtiendo sus instrucciones en archivos HTML y CSS correctamente relacionados.
